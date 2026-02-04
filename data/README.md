@@ -19,6 +19,6 @@ Due to GitHub file size limitations and best practices for Data Science projects
 📥 **Download Dataset (Google Drive):**  
 👉 **https://drive.google.com/file/d/1uIjcG4sZtZgpybPzKRIBZAc7PA3PFh3A/view?usp=sharing**
 
-> After downloading, place the file in the following folder:
+
 
 
