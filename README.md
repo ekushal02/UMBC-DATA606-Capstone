@@ -90,6 +90,6 @@ jupyter notebook notebooks/01_EDA.ipynb
 - 📓 [EDA Notebook](notebooks/01_EDA.ipynb)
 - 🤖 [Modelling Notebook](notebooks/02_Modelling.ipynb)
 - 🎤 [YouTube Presentation](#) 
-- 📊 [PowerPoint Slides](docs/606_Kushal_Presentation.pdf) *(add link after upload)*
+- 📊 [PowerPoint Slides](docs/606_Kushal_Presentation.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kushalerramilli/)
 
