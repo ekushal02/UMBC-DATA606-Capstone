@@ -86,9 +86,10 @@ jupyter notebook notebooks/01_EDA.ipynb
 
 ## 🔗 Links
 
-- 📄 [Final Report](docs/report.md)
+- 📄 [Final Report](docs/Report.md)
 - 📓 [EDA Notebook](notebooks/01_EDA.ipynb)
 - 🤖 [Modelling Notebook](notebooks/02_Modelling.ipynb)
-- 🎤 [YouTube Presentation](#) *(add link after recording)*
-- 📊 [PowerPoint Slides](docs/) *(add link after upload)*
+- 🎤 [YouTube Presentation](#) 
+- 📊 [PowerPoint Slides](docs/606_Kushal_Presentation.pdf) *(add link after upload)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/kushalerramilli/)
+
