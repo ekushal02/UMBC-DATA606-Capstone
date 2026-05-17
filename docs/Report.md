@@ -6,8 +6,7 @@
 
 ---
 
-🎥 **[YouTube Presentation](#)** *(add link after recording)*
-📊 **[PowerPoint Slides](./slides/)** *(add link after upload)*
+🎥 **[YouTube Presentation](https://www.youtube.com/watch?v=pXjR9AFrhYk)**
 💻 **[GitHub Repository](https://github.com/<your-username>/UMBC-DATA606-Capstone)**
 💼 **[LinkedIn](https://www.linkedin.com/in/kushalerramilli/)**
 
